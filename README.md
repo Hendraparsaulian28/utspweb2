@@ -1,5 +1,5 @@
 # SISTEM PENGARSIPAN
-|                    | Anggota                                  |
+| Nama Kelompok      | Anggota                                  |
 |--------------------|------------------------------------------|
 |                    | Mohamad Hegar Sukmana Wibowo (312210332) |
 |                    | Yudha Purnama Putra (312210352)          |
@@ -28,5 +28,5 @@
 ![img](img/8.jpeg)
 ## Laporan Surat Keluar
 ![img](img/9.jpeg)
-## Tentang Sekolah
+## Informasi Tentang Sekolah
 ![img](img/10.jpeg)
