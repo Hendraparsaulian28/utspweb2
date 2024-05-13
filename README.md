@@ -18,12 +18,12 @@ pengelolaan arsip, serta memungkinkan akses yang lebih cepat dan efektif.
 a. Functional (Use Case)
 1. use case
 2. Flowchart
-3. b. Non-Functional
-• Security: Kebutuhan keamanan yang terintegrasi dalam sistem e-arsip untuk melindungi data
+b. Non-Functional
+- Security: Kebutuhan keamanan yang terintegrasi dalam sistem e-arsip untuk melindungi data
 yang disimpan dan menghindari akses tidak sah.
-• Interface: Kebutuhan tampilan antarmuka yang user-friendly dan mudah digunakan, serta
+- Interface: Kebutuhan tampilan antarmuka yang user-friendly dan mudah digunakan, serta
 konsistensi dalam desain dan warna yang digunakan.
-• Performance: Kebutuhan performa yang baik dalam sistem e-arsip untuk memastikan bahwa
+- Performance: Kebutuhan performa yang baik dalam sistem e-arsip untuk memastikan bahwa
 aplikasi dapat diakses dengan cepat dan efisien, serta dapat menangani volume data yang
 besar.
 # C. Rancangan Sistem
