@@ -15,10 +15,10 @@ informasi, dan meningkatkan efisiensi dalam pengelolaan arsip. Dalam beberapa im
 e-arsip berbasis web telah dikembangkan untuk meningkatkan kemudahan dan akurasi dalam
 pengelolaan arsip, serta memungkinkan akses yang lebih cepat dan efektif.
 # B. Kebutuhan Sistem
-a. Functional (Use Case)
+## a. Functional (Use Case)
 1. use case
 2. Flowchart
-b. Non-Functional
+## b. Non-Functional
 - Security: Kebutuhan keamanan yang terintegrasi dalam sistem e-arsip untuk melindungi data
 yang disimpan dan menghindari akses tidak sah.
 - Interface: Kebutuhan tampilan antarmuka yang user-friendly dan mudah digunakan, serta
